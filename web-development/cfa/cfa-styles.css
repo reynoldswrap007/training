@@ -1,0 +1,162 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+font-family: Rokkitt, "Courier New", sans-serif;
+}
+
+#nuggets-and-news {
+  font-family: Rokkitt, "Courier New", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+#banner {
+  text-align: center;
+}
+
+#topnav {
+  text-decoration-style: none;
+  list-style-type: none;
+  display: inline-block;
+  font-family: Rokkitt, "Courier New", sans-serif;
+  color: red;
+  font-size: 25px;
+  margin: 5px auto;
+  text-align: center;
+  font-weight: 300;
+}
+
+#topnav li {
+  display: inline;
+  padding: 0 15px;
+}
+
+header img {
+  width: 14%;
+  height: 10%;
+  margin: 5px 20px;
+  display: inline-block;
+  float: left;
+}
+
+#orderfood {
+  display: inline-block;
+  border: 5px solid red;
+  background-color: red;
+  color: white;
+  margin: 5px 20px;
+  float: right;
+}
+
+#cfaone {
+  display: inline-block;
+  color: red;
+  margin: 5px 20px;
+  font-weight: 300;
+  float: right;
+}
+
+#backgroundimage {
+  background-image: url(cfa-images/cfa-sandwich.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: auto;
+  margin-top: 40px;
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+  font-size: 210px;
+  font-weight: 300;
+  text-align: center;
+  padding: 230.5px 0; 
+}
+
+#menu-tabs {
+  text-align: center;
+  background-color: white;
+  padding: 10px 0;
+}
+
+#menu-tabs li {
+  display: inline;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+  padding: 0px 20px;
+  font-weight: 300;
+}
+
+#menu-tabs li:last-child {
+  border-left: 1px solid grey;  
+}
+
+#menu {
+  text-align: center;
+  background-color: #eeeeee;
+}
+
+.food {
+  display: inline-block;
+  width: 400px;
+  margin: 10px;
+  color: darkgrey;
+  font-weight: 300;
+  text-align: left;
+}
+
+.food img {
+  height: auto;
+  width: 100%;
+}
+
+h2 {
+  text-align: left;
+  font-size: 25px;
+}
+
+h3 {
+  display: inline-block;
+  text-align: left;
+}
+
+h4 {
+  display: inline-block;
+  text-align: right;
+  padding-left: 100px;
+}

@@ -1,0 +1,78 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+header {
+  color: #ffffff;
+  background-color: #84b3ce;
+  background-image: url(pf-images/zest.jpg);
+  background-position: center center;
+  background-size: 100%;
+  background-repeat: never;
+  height: 800px;
+  margin: auto;
+}
+
+header div h1 {
+  text-align: center;
+  font-family: Didot, Georgia, 'Times New Roman', Times, serif;
+  font-size: 90pt;
+  padding: 10px;
+  margin: 15px;
+}
+
+header div ul {
+  text-align: center;
+  list-style-type: none;
+  font-family: Didot, Georgia, 'Times New Roman', Times, serif;
+  font-size: 18pt;
+  display: block;
+  width: 50%;
+  margin: 5px auto;
+}
+
+li {
+  display: inline;
+  text-align: center;
+  margin: auto 5px;
+}
+
+div {
+  height: 400px;
+  padding-top: 200px;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: white;
+  color: black;
+  text-decoration: none;
+  padding: 5px;
+  
+}
